@@ -224,7 +224,7 @@ params:
         content: 717점 수준 4로 교내 1위 달성
         image: /images/achievement.jpg
       - title: 2026 ICPC 경시대회 교내 최우수상 수상
-        content: Developed a product using Artificial Intelligence.
+        content: 교내 2위로
         image: /images/achievement.jpg
 
   # projects
