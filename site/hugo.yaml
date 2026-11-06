@@ -127,7 +127,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/profile_pic.jpg"
     content: |-
       저는 현재 전북대학교 컴퓨터인공지능학부에 재학 중인 학부생입니다. 
       
