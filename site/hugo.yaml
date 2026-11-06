@@ -156,14 +156,15 @@ params:
       저는 현재 전북대학교 컴퓨터인공지능학부에 재학 중인 학부생입니다. 
       
       단순히 페이지로 정해진 정보를 보여주는 것을 넘어 클라우드 등 인터넷을 기반으로 한 다양한 서비스의 기준이 된 웹에 흥미를 느껴 웹개발을 공부하게 되었습니다.
+
       또한 학교에서 배운 전공 지식을 실제 코드로 구현 하며 문제를 해결하는 경쟁적 코딩에도 관심을 가져 연습 중이고 실제로 교내 수상을 한 성과를 내었습니다.
 
 
       지금은 학교 수업 프로젝트의 일환으로 웹을 기반으로 한 온라인 바둑 서비스를 제작하고 있고 서비스 가능한 수준의 웹서비스를 처음부터 끝까지 온전히 개발해 보는 것을 목표로 하고있습니다.
-      그 과정에서 현재 재엔드 작성을 위한 nodejs, 프론트엔드 작성을 위한 react를 학습하고 있으며 사용할 수 있는 기술들은 다음과 같습니다. 
+      그 과정에서 현재 재엔드 작성을 위한 nodejs, 프론트엔드 작성을 위한 react를 학습하고 있으며 실제로 현재 nodejs를 통해 프로젝트의 백엔드 코드를 작성하고 있습니다.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "제가 현제 사용할 수 있는 기술을 다음과 같습니다."
       items:
         - "HTML"
         - "CSS"
@@ -171,86 +172,27 @@ params:
         - "React"
         - "Node"
         - "SQL"
+        - "C++"
+        - "Java"
 
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Projects"
     items:
-      - company: "Facebook"
-        companyUrl: "https://example.com"
+      - company: "웹기반 온라인 바둑 서비스" 
+        companyUrl: 
         jobs:
-          - name: "Senior Software Developer"
-            date: "Jan 2023 - present"
-            content: "I am currently working as a senior software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          - name: "프로젝트 소개"
+            date: "2026년 10월 - 진행중"
+            content: "현재 진행 중인 프로젝트로 온라인으로 상대방과 매칭돼 바둑 게임을 즐길 수 있는 게임 웹사이트입니다."
             info:
               content: Working as a senior software developer
-            featuredItems:
-              fontAwesomeIcons:
-                - icon: fa-brands fa-react
-                  url: https://react.dev/
-                  tooltip: Example tooltip content
-                - icon: fab fa-x-twitter
-                  url: https://example.com
-                  # tooltip: Example tooltip content
-              customIcons:
-                - icon: /fav.png
-                  url: "https://example.com"
-                  tooltip: Example tooltip content
-          - name: "Software Developer"
-            date: "Jan 2022 - Dec 2023"
-            content: "I worked as a software developer. I worked on a project that will be used to help people find the best way to get around the city."
+          - name: "프로젝트 목적"
+            content: "이 프로젝트의 목적은 프론트엔드, 백엔드, 데이터베이스 등 웹 서비스의 전반을 직접 구현함으로써 웹개발의 역량을 늘리고 실제 서비스가 가능한 수준의 웹 페이지를 실제로 구현해 보는 경험을 쌓는 것입니다."
+          - name: "프로젝트 역할"
+            content: "이 프로젝트에서 저는 백엔드 서버의 코드를 작성하고 데이터베이스의 스키마를 설계하는 역할을 맡고 있습니다."
 
-      - company: "Amazon"
-        companyUrl: "https://example.com"
-        jobs:
-          - name: "Software Developer"
-            date: "Sep 2020 - Dec 2021"
-            info:
-              content: I worked as a software developer for more than one year in Amazon.
-            content: |
-              I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-              - Lead backend developer for a product.
-              - Created a frontend design for a product.
-
-      - company: "Apple"
-        companyUrl: "https://example.com"
-        jobs: 
-        - name: "Junior Software Developer"
-          date: "Jan 2020 - Aug 2020"
-          featuredItems:
-            fontAwesomeIcons:
-              - icon: fa-brands fa-react
-                url: https://react.dev/
-              - icon: fab fa-x-twitter
-                url: https://example.com
-            customIcons:
-              - icon: /fav.png
-                url: "https://example.com"
-          content: |
-            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-            - Lead backend developer for a product.
-            - Created a frontend design for a product.
-
-      - company: "Netflix"
-        companyUrl: "https://example.com"
-        jobs:
-        - name: "UI/UX Designer"
-          date: "June 2017 - Nov 2019"
-          content: |
-            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-            - Lead backend developer for a product.
-            - Created a frontend design for a product.
-
-      - company: "Google"
-        companyUrl: "https://example.com"
-        jobs:
-        - name: "Product Designer"
-          date: "Feb 2016 - Mar 2017"
-          content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
