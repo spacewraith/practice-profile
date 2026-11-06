@@ -139,6 +139,8 @@ params:
     image: /images/hero.svg
     bottomImage:
       enable: true
+    button:
+      enable: false
     # roundImage: true # Make hero image circular | default false
     socialLinks:
       fontAwesomeIcons:
@@ -151,9 +153,14 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      저는 현재 전북대학교 컴퓨터인공지능학부에 재학 중인 학부생입니다. 
+      
+      단순히 페이지로 정해진 정보를 보여주는 것을 넘어 클라우드 등 인터넷을 기반으로 한 다양한 서비스의 기준이 된 웹에 흥미를 느껴 웹개발을 공부하게 되었습니다.
+      또한 학교에서 배운 전공 지식을 실제 코드로 구현 하며 문제를 해결하는 경쟁적 코딩에도 관심을 가져 연습 중이고 실제로 교내 수상을 한 성과를 내었습니다.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+
+      지금은 학교 수업 프로젝트의 일환으로 웹을 기반으로 한 온라인 바둑 서비스를 제작하고 있고 서비스 가능한 수준의 웹서비스를 처음부터 끝까지 온전히 개발해 보는 것을 목표로 하고있습니다.
+      그 과정에서 현재 재엔드 작성을 위한 nodejs, 프론트엔드 작성을 위한 react를 학습하고 있으며 사용할 수 있는 기술들은 다음과 같습니다. 
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -163,7 +170,7 @@ params:
         - "JavaScript"
         - "React"
         - "Node"
-        - "Express"
+        - "SQL"
 
   # Experience
   experience:
