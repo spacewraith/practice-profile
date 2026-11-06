@@ -132,10 +132,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
+    intro: "안녕하세요, 저는"
     title: "남재희"
-    subtitle: ""
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    subtitle: "웹개발과 알고리즘을 공부 중인 준비된 학생"
+    content: "저는 전북대학교 컴퓨터인공지능학부를 재학 중인 남재희라고합니다. 현재는 웹 개발과 알고리즘 문제에 관심을 가지며 열심히 공부하고 있습니다."
     image: /images/hero.svg
     bottomImage:
       enable: true
