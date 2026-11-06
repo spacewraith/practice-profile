@@ -136,7 +136,7 @@ params:
     title: "남재희"
     subtitle: "웹개발과 알고리즘을 공부중"
     content: "저는 전북대학교 컴퓨터인공지능학부를 재학 중인 남재희라고합니다. 현재는 웹 개발과 알고리즘 문제에 관심을 가지며 열심히 공부하고 있습니다."
-    image: /images/hero.svg
+    image: /images/profile_pic.jpg
     bottomImage:
       enable: true
     button:
