@@ -283,7 +283,7 @@ params:
     # title: "Custom Name"
     content: 연락이 필요하다면 언제든지 이메일을 보내주세요!
     btnName: Mail me
-    btnLink: mailto:gurusabarisha@gmail.com
+    btnLink: mailto:202212129@jbnu.ac.kr
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
