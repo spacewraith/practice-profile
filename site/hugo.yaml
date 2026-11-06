@@ -157,6 +157,7 @@ params:
     title: "Project-웹기반 온라인 바둑 서비스"
     items:
       - company: "소개" 
+        image: "/images/project_screenshot.png"
         jobs:
           - name: "프로젝트 소개"
             date: "2026년 10월 - 진행중"
