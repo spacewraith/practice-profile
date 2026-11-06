@@ -224,7 +224,7 @@ params:
         content: 717점 수준 4로 교내 1위 달성
         image: /images/achievement.jpg
       - title: 2026 ICPC 경시대회 교내 최우수상 수상
-        content: 교내 2위로
+        content: 교내 2위로 수상
         image: /images/achievement.jpg
 
   # projects
@@ -281,7 +281,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: 연락이 필요하다면 언제든지 이메일을 보내주세요!
     btnName: Mail me
     btnLink: mailto:gurusabarisha@gmail.com
     # formspree:
