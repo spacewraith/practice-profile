@@ -32,6 +32,13 @@ markup:
     renderer:
       unsafe: true
 
+Menus:
+  main:
+    - identifier: gallery
+      name: Gallery
+      title: Gallery
+      url: /gallery
+      weight: 2
 
 params:
   title: "personal portfolio"
