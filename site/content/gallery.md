@@ -5,9 +5,9 @@ draft: false
 description: "My gallery :earth_asia:"
 layout: "gallery"
 galleryImages:
-#  - src: /images/project_loby.png
-#  - src: /images/project_playing.png
-#  - src: /images/project_3d.png
+ - src: /images/project_loby.png
+ - src: /images/project_playing.png
+ - src: /images/project_3d.png
 viewer : true
 viewerOptions : {
     title: false
