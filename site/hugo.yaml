@@ -164,7 +164,7 @@ params:
     title: "Projects"
     items:
       - company: "웹기반 온라인 바둑 서비스"
-        companyUrl: "https://github.com/spacewraith"
+        companyUrl: "https://spacewraith.github.io/practice-profile/gallery/"
         image: "/images/project_screenshot.png"
         jobs:
           - name: "프로젝트 소개"
