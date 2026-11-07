@@ -97,7 +97,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "Portfolio" # Brand name for the brand | default is the title variable
     disableSearch: true
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -177,7 +177,7 @@ params:
           - name: "AWS 사용"
             content: "이 프로젝트는 교내의 클라우드 컴퓨팅 강의의 과제의 일환으로 제작하고 있습니다. 따라서 서버, 데이터베이스 구현, 사이트 배포 등에서 AWS의 서비스들을 사용하고 이를 통해 클라우드 기술을 활용한 개발 방법에 대해서 학습하는 것을 목표로 하고 있습니다"
           - name: "프로젝트 현황"
-            content: "현재 프로젝트의 진행 상황은 게임진행의 필수인 바둑판 대국 기능과 매칭 기능을 완성하고 로컬에서 동작함을 확인한 상태입니다. 이후 AWS 서버를 구축해 동작을 확인하고 데이터베이스를 구축 로그인 기능까지 구현하는 것을 목표로 하고 있습니다. 갤러리에서 현재 진행 화면을 확일 할 수 있습니다"
+            content: "현재 프로젝트의 진행 상황은 게임진행의 필수인 바둑판 대국 기능과 매칭 기능을 완성하고 로컬에서 동작함을 확인한 상태입니다. 이후 AWS 서버를 구축해 동작을 확인하고 데이터베이스를 구축 로그인 기능까지 구현하는 것을 목표로 하고 있습니다. 갤러리에서 현재 진행 화면을 확인 할 수 있습니다"
 
   # Education
   education:
